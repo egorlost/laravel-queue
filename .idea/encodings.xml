@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/FileController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Jobs/FileJob.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/Member.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Services/FileJobService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Services/FileUploadService.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2019_01_27_211437_create_files_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/files.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/web.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage/app/public/files/Xc0nhwxFVWfrSuXApFjKk2d68LILSP9dKJtwR0xr.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/storage/app/public/files/i7BG44gLdrNEk7k1LG79Ko0nMdkwWmYYUC9cdhdN.txt" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
